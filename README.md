@@ -32,6 +32,14 @@
 - **依赖**：需先安装原模组 `Dev In Your Language`（Steam 创意工坊 ID `2142743468`，包 id `latta.devl10n`）。
 - **版权声明**：原始翻译版权归原作者 **leafzxg、Observer** 所有，本目录仅做翻译补充，保留原作者署名与 [Github](https://github.com/Obsoletes/Dev-In-Your-Language_zh) 链接。
 
+> **⚠️ 测试状态：暂时未通过（2026-08-21）**
+>
+> 本目录额外附带了原版基因（GeneDef）中文名称翻译（41 个，简体 + 繁体，位于 `Languages/*/DefInjected/GeneDef/`），
+> 用于开发者工具「给殖民者添加基因」中的基因名称汉化。但在当前整合版游戏环境中**测试未通过**——
+> 经多次尝试（嵌套 `Defs` 与扁平 `LanguageData` 两种 DefInjected 格式、修正 XML 声明、同步到游戏 Mods 目录并重启），
+> 基因名称仍显示英文/defName。推测为该整合版游戏的翻译加载机制特殊，常规语言包的 `GeneDef` 覆盖未被加载。
+> 该部分暂视为**未生效**，开发者工具其余补全条目不受影响。
+
 ## 编译方法
 
 使用 RimWorld 1.6 的程序集进行编译。项目引用 `RimWorldWin64_Data\Managed` 目录下的程序集（`Assembly-CSharp`、`UnityEngine.*` 等），以及 Harmony 类 Mod 提供的 `0Harmony.dll`。
