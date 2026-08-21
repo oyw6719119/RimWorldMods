@@ -1,4 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup><TargetFramework>net472</TargetFramework><AssemblyName>KeepBuildDesignator.Core</AssemblyName><RootNamespace>KeepBuildDesignator</RootNamespace></PropertyGroup>
-  <ItemGroup><Reference Include="Assembly-CSharp"><HintPath>$(RIMWORLD_MANAGED)\Assembly-CSharp.dll</HintPath></Reference></ItemGroup>
-</Project>
