@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<DebugAction_Teleport>传送</DebugAction_Teleport>
+<DebugAction_PickCopy>拾取并复制</DebugAction_PickCopy>
+<DebugAction_SetStuff>更换材质...</DebugAction_SetStuff>
+<DebugAction_EditEffecter>编辑特效器...</DebugAction_EditEffecter>
+<DebugAction_SetTempTerrainRect>设置临时地形（区域）...</DebugAction_SetTempTerrainRect>
+<DebugAction_ClearTempTerrainRect>清除临时地形（区域）</DebugAction_ClearTempTerrainRect>
+<DebugAction_AddSand>添加沙土</DebugAction_AddSand>
+<DebugAction_RemoveSand>移除沙土</DebugAction_RemoveSand>
+<DebugAction_OpenMapNoiseDebugger>地图噪声调试器</DebugAction_OpenMapNoiseDebugger>
+<DebugAction_DestroyAnimals>销毁所有动物</DebugAction_DestroyAnimals>
+<DebugAction_DestroyAllNonColonists>销毁所有非玩家动物</DebugAction_DestroyAllNonColonists>
+<DebugAction_UnlockAllApparel>解锁全部服饰</DebugAction_UnlockAllApparel>
+<DebugAction_TryFishForFood>动物尝试捕鱼觅食</DebugAction_TryFishForFood>
+<DebugAction_TriggerMaintainedEffecter>触发持续特效器...</DebugAction_TriggerMaintainedEffecter>
+<DebugAction_TriggerMaintainedEffecter5S>触发持续特效器（5秒）...</DebugAction_TriggerMaintainedEffecter5S>
+<DebugAction_TriggerMaintainedEffecter12S>触发持续特效器（12秒）...</DebugAction_TriggerMaintainedEffecter12S>
+<DebugAction_SpawnAnimalGroup>生成动物群...</DebugAction_SpawnAnimalGroup>
+<DebugAction_ExecuteDropPodRaidAtLocation>在指定位置发动空投舱袭击...</DebugAction_ExecuteDropPodRaidAtLocation>
+<DebugAction_SpawnFilth>生成污秽...</DebugAction_SpawnFilth>
+<DebugAction_MakePlantLeafless>使植物落叶</DebugAction_MakePlantLeafless>
+<DebugAction_MeleeAttackTarget>近战攻击目标</DebugAction_MeleeAttackTarget>
+<DebugAction_RegenerateCurrentMapStepped>重置当前地图</DebugAction_RegenerateCurrentMapStepped>
+<DebugAction_GenerateLandmarkScreenshots>导出地标截图</DebugAction_GenerateLandmarkScreenshots>
+<DebugAction_AddMutatorToCurrentMapTile>给当前地块添加变异效果</DebugAction_AddMutatorToCurrentMapTile>
+<DebugAction_RemoveMutatorFromCurrentMapTile>移除当前地块变异效果</DebugAction_RemoveMutatorFromCurrentMapTile>
+<DebugAction_DoNextGenStep>执行下一个地图生成步骤</DebugAction_DoNextGenStep>
+<DebugAction_RegenerateMapWithLandmark>生成带地标的地图</DebugAction_RegenerateMapWithLandmark>
+<DebugAction_SetFactionRect>设置派系(区域)</DebugAction_SetFactionRect>
+<DebugAction_RegenGlowGridCells>重新生成光照网格</DebugAction_RegenGlowGridCells>
+<DebugAction_LogLightsAffectinCell>记录影响该格子的光源</DebugAction_LogLightsAffectinCell>
+<DebugAction_DoIncident>触发事件</DebugAction_DoIncident>
+<DebugAction_DoIncidentX10>触发事件×10</DebugAction_DoIncidentX10>
+<DebugAction_DoIncidentPointed>指定触发事件数量</DebugAction_DoIncidentPointed>
+<DebugAction_SetMutant>设置突变形态...</DebugAction_SetMutant>
+  <WriteSandDepth>检查风沙深度</WriteSandDepth>
+  <DebugAction_CreatePrefab>创建预制体</DebugAction_CreatePrefab>
+  <GearTab_DamageRandomApparel>损坏随机服装</GearTab_DamageRandomApparel>
+  <DebugAction_SwimAt>触发游泳</DebugAction_SwimAt>
+  <LoopGravshipCutscene>循环播放重力飞船过场动画</LoopGravshipCutscene>
+  <DebugAction_SpawnPlayerPrefab>生成玩家预制体...</DebugAction_SpawnPlayerPrefab>
+  <GearTab_Wear>给予一件服装...</GearTab_Wear>
+  <DebugAction_RotatePrefabSpawn>旋转生成的预制体</DebugAction_RotatePrefabSpawn>
+  <DrawTerrainCurtain>绘制地形遮罩</DrawTerrainCurtain>
+  <DebugAction_ClearCachedMaterials>清除缓存材质</DebugAction_ClearCachedMaterials>
+  <DebugAction_OpenWorldNoiseDebugger>打开世界噪声调试器</DebugAction_OpenWorldNoiseDebugger>
+  <GearTab_AddToInventory>给予一个物品...</GearTab_AddToInventory>
+  <DrawWorldObjects>绘制世界物体</DrawWorldObjects>
+  <HealthTab_DebugTooltip>调试提示</HealthTab_DebugTooltip>
+  <DebugAction_RetroactivelyAddLandmarksToWorld>重新生成世界地标</DebugAction_RetroactivelyAddLandmarksToWorld>
+  <DebugAction_ClearAllSand>清除所有风沙</DebugAction_ClearAllSand>
+  <HealthTab_DebugTooltipDesc>在健康界面中悬停于健康状态上时，可以查看额外的调试信息。</HealthTab_DebugTooltipDesc>
+  <LogMismatchedLayoutFactions>记录布局不匹配的派系</LogMismatchedLayoutFactions>
+  <DebugAction_DisableMechs>停用机械族</DebugAction_DisableMechs>
+  <DebugAction_LayerPathfinder>行星层路径查找器...</DebugAction_LayerPathfinder>
+  <DebugAction_SpawnPrefab>生成预制体...</DebugAction_SpawnPrefab>
+  <DebugAction_EndRevenantHypnosis>结束亡魂催眠</DebugAction_EndRevenantHypnosis>
+  <DebugAction_Goto>记录移动路径</DebugAction_Goto>
+  <ShowFpsCounter>显示 FPS</ShowFpsCounter>
+  <SaveGravshipRenders>保存重力飞船渲染图</SaveGravshipRenders>
+  <DebugAction_RemoveTraitFromUniqueWeapon>移除独特武器特性</DebugAction_RemoveTraitFromUniqueWeapon>
+  <DebugAction_LogPathfinderState>记录路径查找器状态</DebugAction_LogPathfinderState>
+  <DebugAction_LogCellGridResult>记录 CellGrid 结果</DebugAction_LogCellGridResult>
+  <DebugAction_ClearLandmark>清除地标...</DebugAction_ClearLandmark>
+  <DebugAction_SetLandmark>设置地标...</DebugAction_SetLandmark>
+  <DrawRoadPaths>绘制道路路径</DrawRoadPaths>
+  <AlwaysRareCatches>钓鱼必定获得稀有鱼</AlwaysRareCatches>
+  <DIYL.PseudoL10N>高亮显示遗漏翻译</DIYL.PseudoL10N>
+  <DebugAction_RegenerateMapFeatures>重新生成世界地图特征</DebugAction_RegenerateMapFeatures>
+  <HealthTab_AddHediff>添加健康状态...</HealthTab_AddHediff>
+  <DrawOutdoorMask>绘制室外遮罩</DrawOutdoorMask>
+  <DebugAction_NuzzlePawn>触发亲昵互动</DebugAction_NuzzlePawn>
+  <IgnoreGravshipRange>忽略重力飞船旅行范围</IgnoreGravshipRange>
+  <ShowMemoryInfo>显示内存使用情况</ShowMemoryInfo>
+  <DebugAction_LogCellMapData>记录地图格子数据</DebugAction_LogCellMapData>
+  <SkipGravshipTileSelection>跳过重力飞船目的地选择</SkipGravshipTileSelection>
+  <DebugAction_VolcanicDebrisDelayed>火山碎屑（延迟）...</DebugAction_VolcanicDebrisDelayed>
+  <DebugAction_TogglePathDebugging>切换路径调试日志</DebugAction_TogglePathDebugging>
+  <DebugAction_SpawnStatueCraftedBy>生成指定制作者的雕像</DebugAction_SpawnStatueCraftedBy>
+  <ShowTpsCounter>显示 TPS</ShowTpsCounter>
+  <DrawMeltingIce>绘制融化中的冰</DrawMeltingIce>
+  <PrefabCopyTerrain>复制预制体地形</PrefabCopyTerrain>
+  <DebugAction_SpawnPrefabBlueprint>生成预制体蓝图...</DebugAction_SpawnPrefabBlueprint>
+  <DrawGravshipMask>绘制重力飞船遮罩</DrawGravshipMask>
+  <AlwaysNegativeCatches>钓鱼必定获得负面结果</AlwaysNegativeCatches>
+  <DebugAction_SetBiome>设置生物群系...</DebugAction_SetBiome>
+  <DrawUsedRects>绘制已使用区域</DrawUsedRects>
+  <DebugAction_Breach>记录突破路径</DebugAction_Breach>
+  <DrawWaterBodies>绘制水体</DrawWaterBodies>
+  <HealthTab_ShowHidden>显示隐藏的健康状态</HealthTab_ShowHidden>
+  <DrawSand>绘制风沙</DrawSand>
+  <PrefabCopyAllThings>复制预制体中的所有物体</PrefabCopyAllThings>
+  <DIYL.PseudoL10N.Description>启用开发者模式后，RimWorld 会通过特殊字符显示未翻译的键值以进行标记。此功能会强制关闭这种标记效果。请参考下面的预览。</DIYL.PseudoL10N.Description>
+  <DrawRiverFlowDebug>绘制河流流向调试信息</DrawRiverFlowDebug>
+  <DebugAction_AddTraitToUniqueWeapon>为独特武器添加特性</DebugAction_AddTraitToUniqueWeapon>
+  <DisableGravshipRenderShader>禁用重力飞船着色器</DisableGravshipRenderShader>
+  <GearTab_SetPrimary>设置主要装备...</GearTab_SetPrimary>
+  <DebugAction_VolcanicDebris>火山碎屑</DebugAction_VolcanicDebris>
+</LanguageData>

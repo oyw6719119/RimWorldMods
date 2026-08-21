@@ -24,6 +24,14 @@
 
 > 实现说明：通过反射动态定位 `HarmonyLib` 并安装补丁，目标是 `GeneCreationDialogBase.DoBottomButtons` 与 `Dialog_CreateXenogerm.DrawSection`，需要由其他 Harmony 类 Mod 提供 `0Harmony.dll`。
 
+### DevInYourLanguage_zh —— Dev In Your Language 中文汉化（含补全）
+
+[Dev In Your Language](https://steamcommunity.com/sharedfiles/filedetails/?id=2142743468) 的中文翻译包，用于将开发者模式中各类未翻译的工具、视图设置等本地化。本目录在原汉化 [Dev In Your Language_zh](https://github.com/Obsoletes/Dev-In-Your-Language_zh) 的基础上**补全了遗漏 / 未翻译的 19 处条目**（简体 + 繁体均补齐）。
+
+- **补全条目**：`DrawRoomGroups`、`DebugAction_Take5000FlameDamage`、`DebugAction_DestroyTrees21x21`、`DebugAction_NameAnimalByNuzzling`、`EnableTranslationWindowInEnglish`、`DrawPatherState`、`DrawHateChanterPositions`、`AnomalyDarkeningFX`、`SearchIgnoresRestrictions`、`ShowHiddenInfo`、`DrawMapRooms`、`DrawMapGraphs`、`DrawDarknessOverlay`、`PauseOnError`、`DrawNonCombatantTimer`、`SingleThreadedDrawing`、`FastMonolithRespawn`、`DrawShamblerAlertMote`、`ShowHiddenPawns`。
+- **依赖**：需先安装原模组 `Dev In Your Language`（Steam 创意工坊 ID `2142743468`，包 id `latta.devl10n`）。
+- **版权声明**：原始翻译版权归原作者 **leafzxg、Observer** 所有，本目录仅做翻译补充，保留原作者署名与 [Github](https://github.com/Obsoletes/Dev-In-Your-Language_zh) 链接。
+
 ## 编译方法
 
 使用 RimWorld 1.6 的程序集进行编译。项目引用 `RimWorldWin64_Data\Managed` 目录下的程序集（`Assembly-CSharp`、`UnityEngine.*` 等），以及 Harmony 类 Mod 提供的 `0Harmony.dll`。

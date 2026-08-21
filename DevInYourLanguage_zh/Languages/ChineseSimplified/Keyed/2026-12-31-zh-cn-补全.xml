@@ -1,0 +1,22 @@
+<?xml version=1.0 encoding=UTF-8?>
+<LanguageData>
+  <DrawRoomGroups>绘制房间组</DrawRoomGroups>
+  <DebugAction_Take5000FlameDamage>承受 5000 火焰伤害</DebugAction_Take5000FlameDamage>
+  <DebugAction_DestroyTrees21x21>摧毁 21x21 树木</DebugAction_DestroyTrees21x21>
+  <DebugAction_NameAnimalByNuzzling>通过蹭蹭为动物命名</DebugAction_NameAnimalByNuzzling>
+  <EnableTranslationWindowInEnglish>在英语中启用翻译窗口</EnableTranslationWindowInEnglish>
+  <DrawPatherState>绘制寻路状态</DrawPatherState>
+  <DrawHateChanterPositions>绘制憎恨吟唱者位置</DrawHateChanterPositions>
+  <AnomalyDarkeningFX>异象暗化特效</AnomalyDarkeningFX>
+  <SearchIgnoresRestrictions>搜索忽略限制</SearchIgnoresRestrictions>
+  <ShowHiddenInfo>显示隐藏信息</ShowHiddenInfo>
+  <DrawMapRooms>绘制地图房间</DrawMapRooms>
+  <DrawMapGraphs>绘制地图图表</DrawMapGraphs>
+  <DrawDarknessOverlay>绘制黑暗覆盖</DrawDarknessOverlay>
+  <PauseOnError>出错时暂停</PauseOnError>
+  <DrawNonCombatantTimer>绘制非战斗人员计时器</DrawNonCombatantTimer>
+  <SingleThreadedDrawing>单线程绘制</SingleThreadedDrawing>
+  <FastMonolithRespawn>快速方尖碑重生</FastMonolithRespawn>
+  <DrawShamblerAlertMote>绘制蹒跚者警报粒子</DrawShamblerAlertMote>
+  <ShowHiddenPawns>显示隐藏的 Pawn</ShowHiddenPawns>
+</LanguageData>
