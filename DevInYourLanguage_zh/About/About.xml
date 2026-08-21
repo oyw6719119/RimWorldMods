@@ -37,5 +37,8 @@
 	DrawMapRooms、DrawMapGraphs、DrawDarknessOverlay、PauseOnError、DrawNonCombatantTimer、
 	SingleThreadedDrawing、FastMonolithRespawn、DrawShamblerAlertMote、ShowHiddenPawns。
 	原始版权归原作者（leafzxg、Observer）所有，本补全仅做翻译补充。
+	---
+	新增：原版基因（GeneDef）中文名称翻译（简体+繁体，共 41 个），
+	用于开发者工具「给殖民者添加基因」等功能中的基因名称汉化。
 	</description>
 </ModMetaData>
