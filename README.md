@@ -32,3 +32,7 @@
 |-------------------------------|-----------------------------------------|
 | `BatchColonyCommands.csproj`  | `Dist\BatchColonyCommands\Assemblies\`  |
 | `GeneImplantPreview.csproj`   | `Dist\GeneImplantPreview\Assemblies\`   |
+
+## 开源许可
+
+本项目使用 **MIT License** 开源，允许任何人自由使用、修改、分发和商用，仅要求保留版权与许可声明。详见 [LICENSE](LICENSE)。
