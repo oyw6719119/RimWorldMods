@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>KeepBuildDesignator.Bootstrap</AssemblyName>
+    <RootNamespace>KeepBuildDesignator</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp"><HintPath>$(RIMWORLD_MANAGED)\Assembly-CSharp.dll</HintPath></Reference>
+    <EmbeddedResource Include="bin\Release\net472\KeepBuildDesignator.Core.dll" LogicalName="KeepBuildDesignator.Core.bin" />
+  </ItemGroup>
+</Project>
